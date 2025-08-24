@@ -1,0 +1,22 @@
+# MongoDB Atlas Configuration
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/email_agent?retryWrites=true&w=majority
+MONGODB_DATABASE=email_agent
+MONGODB_COLLECTION=contacts
+
+# Google Gemini API Configuration
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Application Configuration
+LOG_LEVEL=INFO
+API_HOST=0.0.0.0
+API_PORT=8000
+
+# SMTP Configuration (HostGator)
+SMTP_SERVER=gator3064.hostgator.com
+SMTP_PORT=465
+SMTP_USERNAME=ash@a4gcollab.org
+SMTP_PASSWORD=T%)+PFIy$vM4
+SMTP_SENDER=ash@a4gcollab.org
+
+# Gmail Configuration (Service Account) - Alternative
+GMAIL_SENDER=your-email@yourdomain.com

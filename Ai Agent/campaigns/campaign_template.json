@@ -1,0 +1,34 @@
+{
+  "title": "Your Campaign Title",
+  "objective": "What you want to achieve with this campaign",
+  "date": "YYYY-MM-DD",
+  "time": "HH:MM AM/PM - HH:MM AM/PM",
+  "location": "Event location (Online/In-person/Hybrid)",
+  "target_audience": ["audience segment 1", "audience segment 2"],
+  "key_points": [
+    "Key benefit 1",
+    "Key benefit 2",
+    "Key benefit 3"
+  ],
+  "call_to_action": "What action do you want recipients to take?",
+  "registration_link": "https://your-registration-link.com",
+  "contact_email": "contact@yourdomain.com",
+  "website": "https://your-website.com",
+  "social_media": {
+    "twitter": "@yourhandle",
+    "instagram": "@yourhandle",
+    "linkedin": "Your LinkedIn"
+  },
+  "sponsors": [
+    "Sponsor 1",
+    "Sponsor 2"
+  ],
+  "speakers": [
+    "Speaker 1 - Title",
+    "Speaker 2 - Title"
+  ],
+  "agenda": [
+    "Time - Activity 1",
+    "Time - Activity 2"
+  ]
+}

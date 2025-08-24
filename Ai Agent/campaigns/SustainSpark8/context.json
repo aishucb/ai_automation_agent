@@ -1,0 +1,42 @@
+{
+  "title": "SustainSpark8 Youth Climate Event",
+  "objective": "Maximize participation from schools and youth leaders in climate action",
+  "date": "2025-09-20",
+  "time": "10:00 AM - 4:00 PM",
+  "location": "Online + Regional Hubs",
+  "target_audience": ["school principals", "youth leaders", "teachers"],
+  "key_points": [
+    "Hands-on climate workshops",
+    "Guest speakers from top universities",
+    "Certification for participants",
+    "Networking opportunities",
+    "Real-world project implementation"
+  ],
+  "call_to_action": "Register by Sept 10th using this link: https://sustainspark8.eventbrite.com",
+  "registration_link": "https://sustainspark8.eventbrite.com",
+  "contact_email": "info@sustainspark8.org",
+  "website": "https://sustainspark8.org",
+  "social_media": {
+    "twitter": "@SustainSpark8",
+    "instagram": "@sustainspark8",
+    "linkedin": "SustainSpark8"
+  },
+  "sponsors": [
+    "Climate Action Foundation",
+    "Youth Empowerment Network",
+    "Green Future Initiative"
+  ],
+  "speakers": [
+    "Dr. Sarah Johnson - Climate Scientist",
+    "Prof. Michael Chen - Environmental Policy",
+    "Youth Ambassador Maria Rodriguez"
+  ],
+  "agenda": [
+    "10:00 AM - Opening Ceremony",
+    "10:30 AM - Keynote Speech",
+    "11:30 AM - Interactive Workshops",
+    "1:00 PM - Networking Lunch",
+    "2:00 PM - Panel Discussion",
+    "3:30 PM - Closing & Next Steps"
+  ]
+}
